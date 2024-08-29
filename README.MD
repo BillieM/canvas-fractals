@@ -1,3 +1,3 @@
 # mandlebrot set
 
-[mandlebrot set](example.png)
+![mandlebrot set](example.png)
